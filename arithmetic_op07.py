@@ -5,4 +5,5 @@ b=4
 # Create a variable "c"  and assign it the value of the int 1.
 c=1
 # Create a variable called 'answer' and assign it the expression value: a - b + c
-print("Javob :"+str(a-b+c))
+answer=a-b+c
+print(answer)

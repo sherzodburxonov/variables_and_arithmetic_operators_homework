@@ -3,4 +3,5 @@ a=72
 # Create a variable "b"  and assign it the value of the int 9.
 b=9
 # Create a variable called "answer" and assign it the division of a by b.
-print("Javob :"+str(a/b))
+answer=a/b
+print(answer)
